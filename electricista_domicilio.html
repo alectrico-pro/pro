@@ -26,11 +26,22 @@ div,span,h1,h2,h3,h4,h5,h6,p,blockquote,a,ol,ul,li,figcaption{font: inherit;}sec
   <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
   <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
   <script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
-    <script async custom-element="amp-animation" src="https://cdn.ampproject.org/v0/amp-animation-0.1.js"></script>
-  <script async custom-element="amp-position-observer" src="https://cdn.ampproject.org/v0/amp-position-observer-0.1.js"></script> 
+  
   
 </head>
-<body><div id="top-page"></div>                                         <amp-animation id="showScrollToTopAnim" layout="nodisplay">                                             <script type="application/json">                                             {                                                 "duration": "200ms",                                                 "fill": "both",                                                 "iterations": "1",                                                 "direction": "alternate",                                                 "animations": [                                                     {                                                         "selector": "#scrollToTopButton",                                                         "keyframes": [                                                             { "opacity": "0.4", "visibility": "visible" }                                                         ]                                                     }                                                 ]                                             }                                             </script>                                         </amp-animation>                                         <amp-animation id="hideScrollToTopAnim" layout="nodisplay">                                             <script type="application/json">                                             {                                                 "duration": "200ms",                                                 "fill": "both",                                                 "iterations": "1",                                                 "direction": "alternate",                                                 "animations": [                                                     {                                                         "selector": "#scrollToTopButton",                                                         "keyframes": [                                                             { "opacity": "0", "visibility": "hidden" }                                                         ]                                                     }                                                 ]                                             }                                             </script>                                         </amp-animation>                                         <div id="scrollToTopMarker">                                             <amp-position-observer on="enter:hideScrollToTopAnim.start; exit:showScrollToTopAnim.start" layout="nodisplay">                                             </amp-position-observer>                                         </div>
+<body><div id="top-page"></div>                                         <amp-animation id="showScrollToTopAnim" layout="nodisplay">                                             <script type="application/json">                                             {                                                 "duration": "200ms",                                                 "fill": "both",                                                 "iterations": "1",                                                 "direction": "alternate",                                                 "animations": [                                                     {                                                         "selector": "#scrollToTopButton",                                                         "keyframes": [                                                             { "opacity": "0.4", "visibility": "visible" }                                                         ]                                                     }                                                 ]                                             }                                             </script>                                         </amp-animation>                                         <amp-animation id="hideScrollToTopAnim" layout="nodisplay">                                             <script type="application/json">                                             {                                                 "duration": "200ms",                                                 "fill": "both",                                                 "iterations": "1",                                                 "direction": "alternate",                                                 "animations": [                                                     {                                                         "selector": "#scrollToTopButton",                                                         "keyframes": [                                                             { "opacity": "0", "visibility": "hidden" }                                                         ]                                                     }                                                 ]                                             }                                             </script>                                         </amp-animation>                                         <div id="scrollToTopMarker">                                             <amp-position-observer on="enter:hideScrollToTopAnim.start; exit:showScrollToTopAnim.start" layout="nodisplay">                                             </amp-position-observer>                                         </div><amp-sidebar id="sidebar" class="cid-qMap8hXA3x" layout="nodisplay" side="right">
+        <div class="builder-sidebar" id="builder-sidebar">
+            <button on="tap:sidebar.close" class="close-sidebar">
+                <span></span>
+                <span></span>
+            </button>
+
+            <div class="sidebar mbr-white" data-app-modern-menu="true"><a class="text-primary display-4" href="http://alectrico.cl">PRINCIPAL</a>
+              <a class="text-primary display-4" href="http://alectrico.cl/clientes">CLIENTES</a></div>
+            
+            <div class="navbar-buttons mbr-section-btn align-center"><a class="btn btn-sm btn-primary display-4" href="tel:+56962000921"><span class="fa fa-whatsapp mbr-iconfont mbr-iconfont-btn"><svg width="16" height="16" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg" fill="rgb(255, 255, 255)"><path d="M1113 974q13 0 97.5 44t89.5 53q2 5 2 15 0 33-17 76-16 39-71 65.5t-102 26.5q-57 0-190-62-98-45-170-118t-148-185q-72-107-71-194v-8q3-91 74-158 24-22 52-22 6 0 18 1.5t19 1.5q19 0 26.5 6.5t15.5 27.5q8 20 33 88t25 75q0 21-34.5 57.5t-34.5 46.5q0 7 5 15 34 73 102 137 56 53 151 101 12 7 22 7 15 0 54-48.5t52-48.5zm-203 530q127 0 243.5-50t200.5-134 134-200.5 50-243.5-50-243.5-134-200.5-200.5-134-243.5-50-243.5 50-200.5 134-134 200.5-50 243.5q0 203 120 368l-79 233 242-77q158 104 345 104zm0-1382q153 0 292.5 60t240.5 161 161 240.5 60 292.5-60 292.5-161 240.5-240.5 161-292.5 60q-195 0-365-94l-417 134 136-405q-108-178-108-389 0-153 60-292.5t161-240.5 240.5-161 292.5-60z"></path></svg></span>962 000 921</a></div>
+        </div>
+    </amp-sidebar>
 
 <!-- Google Analytics -->
 <script type="application/ld+json">
@@ -78,7 +89,19 @@ div,span,h1,h2,h3,h4,h5,h6,p,blockquote,a,ol,ul,li,figcaption{font: inherit;}sec
         "ratingCount": "8",
         "reviewCount": "5"
     }
-}}
+}
+
+<!-- Global site tag (gtag.js) - Google AdWords: 1014456966 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1014456966"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-1014456966');
+</script>
+
+<!-- /Google Analytics -->
 
 
   <section class="menu cid-qMap8hXA3x" id="menu1-0">
@@ -93,19 +116,7 @@ div,span,h1,h2,h3,h4,h5,h6,p,blockquote,a,ol,ul,li,figcaption{font: inherit;}sec
           
       </div>
     </nav>
-    <amp-sidebar id="sidebar" layout="nodisplay" side="right">
-        <div class="builder-sidebar" id="builder-sidebar">
-            <button on="tap:sidebar.close" class="close-sidebar">
-                <span></span>
-                <span></span>
-            </button>
-
-            <div class="sidebar mbr-white" data-app-modern-menu="true"><a class="text-primary display-4" href="http://alectrico.cl">PRINCIPAL</a>
-              <a class="text-primary display-4" href="http://alectrico.cl/clientes">CLIENTES</a></div>
-            
-            <div class="navbar-buttons mbr-section-btn align-center"><a class="btn btn-sm btn-primary display-4" href="tel:+56962000921"><span class="fa fa-whatsapp mbr-iconfont mbr-iconfont-btn"><svg width="16" height="16" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg" fill="rgb(255, 255, 255)"><path d="M1113 974q13 0 97.5 44t89.5 53q2 5 2 15 0 33-17 76-16 39-71 65.5t-102 26.5q-57 0-190-62-98-45-170-118t-148-185q-72-107-71-194v-8q3-91 74-158 24-22 52-22 6 0 18 1.5t19 1.5q19 0 26.5 6.5t15.5 27.5q8 20 33 88t25 75q0 21-34.5 57.5t-34.5 46.5q0 7 5 15 34 73 102 137 56 53 151 101 12 7 22 7 15 0 54-48.5t52-48.5zm-203 530q127 0 243.5-50t200.5-134 134-200.5 50-243.5-50-243.5-134-200.5-200.5-134-243.5-50-243.5 50-200.5 134-134 200.5-50 243.5q0 203 120 368l-79 233 242-77q158 104 345 104zm0-1382q153 0 292.5 60t240.5 161 161 240.5 60 292.5-60 292.5-161 240.5-240.5 161-292.5 60q-195 0-365-94l-417 134 136-405q-108-178-108-389 0-153 60-292.5t161-240.5 240.5-161 292.5-60z"></path></svg></span>962 000 921</a></div>
-        </div>
-    </amp-sidebar>
+    
     <button on="tap:sidebar.toggle" class="ampstart-btn hamburger sticky-but">
         <span></span>
         <span></span>
@@ -114,7 +125,7 @@ div,span,h1,h2,h3,h4,h5,h6,p,blockquote,a,ol,ul,li,figcaption{font: inherit;}sec
     </button>
 </section>
 
-<section class="engine"><a href="https://mobirise.info/h">how to create your own web page</a></section><section class="header1 cid-qMhF2WylKI" id="header1-1u">
+<section class="engine"><a href="https://mobirise.info/m">website design templates</a></section><section class="header1 cid-qMhF2WylKI" id="header1-1u">
 
     
 
@@ -325,7 +336,7 @@ div,span,h1,h2,h3,h4,h5,h6,p,blockquote,a,ol,ul,li,figcaption{font: inherit;}sec
                 </h3>
             </div>
             <div class="btn-container mbr-col-sm-12 mbr-col-md-6 mbr-col-lg-4">
-                <div class="mbr-section-btn align-center"><a class="btn btn-black-outline display-4" href="http://www.lun.com/Pages/NewsDetail.aspx?dt=2018-03-15&PaginaId=16&bodyid=0" target="_blank">VEALO EN LAS ULTIMAS NOTICIAS</a></div>
+                <div class="mbr-section-btn align-center"><a class="btn btn-black-outline display-4" href="http://www.lun.com/Pages/NewsDetail.aspx?dt=2018-03-15&amp;PaginaId=16&amp;bodyid=0" target="_blank">VEALO EN LAS ULTIMAS NOTICIAS</a></div>
             </div>
         </div>
     </div>
@@ -392,5 +403,5 @@ div,span,h1,h2,h3,h4,h5,h6,p,blockquote,a,ol,ul,li,figcaption{font: inherit;}sec
 
   
   
-</body></script><button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)">                                         <a class="scroll-to-top-arrow"></a>                                     </button></body>
+<button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)">                                         <a class="scroll-to-top-arrow"></a>                                     </button></body>
 </html>
