@@ -35,7 +35,7 @@
     "cookiesAlert": "",
     "google-analytics": "<script type=\"application/ld+json\">\r\n{\r\n\t\"@context\": \"http://schema.org\",\r\n\t\"@type\": \"Electrician\",\r\n\t\"name\": \"Alexander Espinosa Hernández: Electricista a Domicilio Providencia, Electricista a Domicilio Santiago, Electricista a Domicilio Ñuñoa\",\r\n\t\"address\": {\r\n\t\t\"@type\": \"PostalAddress\",\r\n\t\t\"streetAddress\": \"\",\r\n\t\t\"addressLocality\": \"Providencia\",\r\n\t\t\"addressRegion\": \"\",\r\n\t\t\"postalCode\": \"7500000\"\r\n\t},\r\n\t\"image\": \"https://alectrico.cl/assets/images/wp-20160517-8-1456x2592.jpg\",\r\n\t\"email\": \"alexander@alectrico.cl\",\r\n\t\"telePhone\": \"+56962000921\",\r\n\t\"url\": \"www.alectrico.pro\",\r\n\t\"paymentAccepted\": [ \"cash\" ],\r\n\t\"openingHours\": \"Mo,Tu,We,Th,Fr,Sa,Su 07:00-22:00\",\r\n\t\"openingHoursSpecification\": [ {\r\n\t\t\"@type\": \"OpeningHoursSpecification\",\r\n\t\t\"dayOfWeek\": [\r\n\t\t\t\"Monday\",\r\n\t\t\t\"Tuesday\",\r\n\t\t\t\"Wednesday\",\r\n\t\t\t\"Thursday\",\r\n\t\t\t\"Friday\",\r\n\t\t\t\"Saturday\",\r\n\t\t\t\"Sunday\"\r\n\t\t],\r\n\t\t\"opens\": \"07:00\",\r\n\t\t\"closes\": \"22:00\"\r\n\t} ],\r\n\t\"geo\": {\r\n\t\t\"@type\": \"GeoCoordinates\",\r\n\t\t\"latitude\": \"-33.444746\",\r\n\t\t\"longitude\": \"\"\r\n\t},\r\n\t\"priceRange\":\"$ 25.000\",\r\n \"aggregateRating\":\r\n    {\r\n        \"@type\": \"AggregateRating\",\r\n        \"ratingValue\": \"5\",\r\n        \"ratingCount\": \"8\",\r\n        \"reviewCount\": \"5\"\r\n    }\r\n}\r\n</script>\r\n<script async custom-element=\"amp-animation\" src=\"https://cdn.ampproject.org/v0/amp-animation-0.1.js\"></script>",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 103,
+    "uniqCompNum": 105,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
     "siteUrl": "http://www.alectrico.pro",
@@ -401,6 +401,24 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "blockquote": {
+              "border-color": "@lineColor"
+            }
+          },
+          "_name": "content10",
+          "_customHTML": "<section class=\"content10 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Color de Línea\" name=\"lineColor\" value=\"#767676\">\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"mbr-text mbr-fonts-style mbr-col-sm-12 mbr-col-md-8\" mbr-theme-style=\"display-4\" data-multiline mbr-article>\n                <blockquote>Diseñe la parte eléctrica de su remodelación comercial y sepa como lidiar con los electricistas. Va a aprender lo que necesita aún antes de llamar al primer cadidato electricista. <a href=\"https://designer.alectrico.cl\" target=\"_blank\">DESIGNER.ALECTRICO.CL</a><a href=\"https://mobirise.com/\" style=\"font-style: italic;\">.</a></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rfA9vu0ETj",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content10-2w"
         },
         {
           "_styles": {
