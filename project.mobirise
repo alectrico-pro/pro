@@ -268,7 +268,7 @@
             }
           },
           "_name": "header1",
-          "_customHTML": "<section class=\"header1\" group=\"Headers\" plugins=\"amp-main\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background33.jpg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#0dd1ff\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <h1 class=\"mbr-section-title mbr-fonts-style align-right mbr-bold mbr-white\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\"><b>alectrico.profesinal</b></h1>\n        <h3 class=\"mbr-section-subtitle mbr-fonts-style align-right mbr-white mbr-light\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-subtitle\" mbr-if=\"showSubTitle\">Electricista a Domicilio</h3>\n        <p class=\"mbr-fonts-style mbr-text align-right\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-if=\"showText\">\n            Full width intro with adjustable height, background image. Click any text to edit or style it.\n        </p>\n        <div class=\"mbr-section-btn align-right\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"tel:962000921\"><span class=\"fa fa-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>962 000 921</a> <a class=\"btn btn-md btn-primary\" href=\"https://www.alectrico.cl/agendar\" target=\"_blank\"><span class=\"fa fa-flash mbr-iconfont mbr-iconfont-btn\"></span>SOLICITE PRESUPUESTO</a></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" plugins=\"amp-main\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background34.jpg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#0dd1ff\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <h1 class=\"mbr-section-title mbr-fonts-style align-right mbr-bold mbr-white\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\"><b>alectrico.profesinal</b></h1>\n        <h3 class=\"mbr-section-subtitle mbr-fonts-style align-right mbr-white mbr-light\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-subtitle\" mbr-if=\"showSubTitle\">Electricista a Domicilio</h3>\n        <p class=\"mbr-fonts-style mbr-text align-right\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-if=\"showText\">\n            Full width intro with adjustable height, background image. Click any text to edit or style it.\n        </p>\n        <div class=\"mbr-section-btn align-right\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"tel:962000921\"><span class=\"fa fa-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>962 000 921</a> <a class=\"btn btn-md btn-primary\" href=\"https://www.alectrico.cl/agendar\" target=\"_blank\"><span class=\"fa fa-flash mbr-iconfont mbr-iconfont-btn\"></span>SOLICITE PRESUPUESTO</a></div>\n    </div>\n\n</section>",
           "_anchor": "header1-1u",
           "_isUserblock": true,
           "_cid": "qMhF2WylKI",
@@ -324,6 +324,41 @@
           "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">\n                    Certificación: explíqueme!</h3>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>No hay nada como saber!</b>&nbsp;Aléctrico lo ayuda a obtener su certificación proporcionando los mejores equipos de mediciones a su personal de Terreno. El Medidor de Aislamiento Fluke 1503 permite descubrir rápidamente si sus cables están en buen estado. El telurómetro Fluke 1630 mide sin esfuerzo la resistencia del lazo de tierra.&nbsp;Aléctrico es una de las pocas compañías que usa la mejor tecnología en cada atención, sin importar lo modesto de la reparación. Aléctrico le ofrece a Ud. la información que Ud. necesita para evaluar la calidad de su instalación eléctrica. Si está todo en norma, Aléctrico le tramitará su certificación TE1 ante la SEC.</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qMi3M8cV78",
           "_anchor": "content2-1y",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@flexDirection)": {
+              ".mbr-row": {
+                "flex-direction": "row-reverse"
+              }
+            },
+            ".btn-container": {
+              "display": "flex",
+              "align-items": "center",
+              "justify-content": "center"
+            },
+            "@media (min-width: 768px)": {
+              ".mbr-section-subtitle": {
+                "margin-bottom": "0"
+              }
+            }
+          },
+          "_name": "info2",
+          "_customHTML": "<section class=\"info2\" group=\"Testimonials & Info\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!--Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Button\" name=\"showButton\" checked>\n        <input type=\"checkbox\" title=\"Text on Left/Right\" name=\"flexDirection\" condition=\"(showTitle || showSubtitle) && showButton\" checked>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/img/04.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-6 mbr-col-lg-8\" mbr-if=\"showTitle || showSubtitle\">\n                <h2 class=\"mbr-section-title align-right mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">¡Cables en ocho?&nbsp;</h2>\n                <h3 class=\"mbr-section-subtitle align-right mbr-fonts-style mbr-light\" mbr-theme-style=\"display-7\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">\n                    Alexander Espinosa, CEO de Aléctrico contribuyó en un artículo sobre seguridad eléctrica de la autoría de Francisca Orellana.\n                </h3>\n            </div>\n            <div class=\"btn-container mbr-col-sm-12 mbr-col-md-6 mbr-col-lg-4\" mbr-if=\"showButton\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-black-outline\" href=\"http://www.lun.com/Pages/NewsDetail.aspx?dt=2018-03-15&PaginaId=16&bodyid=0\" target=\"_blank\">VEALO EN LAS ULTIMAS NOTICIAS</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qMnnyGqKRi",
+          "_anchor": "info2-24",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -558,64 +593,6 @@
           "_customHTML": "<section class=\"info2\" group=\"Testimonials & Info\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!--Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Mostrar Título\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Mostrar Subtítulo\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Mostrar Botón\" name=\"showButton\" checked>\n        <input type=\"checkbox\" title=\"Texto en la Izquierda/Derecha\" name=\"flexDirection\" condition=\"(showTitle || showSubtitle) && showButton\" checked>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Imagen de Fondo\" value=\"../_images/img/04.jpg\">\n            <input type=\"color\" title=\"Color de Fondo\" value=\"#ffffff\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-6 mbr-col-lg-8\" mbr-if=\"showTitle || showSubtitle\">\n                <h2 class=\"mbr-section-title align-right mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n                    Diferenciales Eléctricos</h2>\n                <h3 class=\"mbr-section-subtitle align-right mbr-fonts-style mbr-light\" mbr-theme-style=\"display-7\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">\n                    Un diferencial es un aparato muy sofisticado diseñado para apartar de Ud. todas las energías negativas que provienen de la electricidad.<br><br>Funciona ofreciéndole un camino más atractivo al flujo de electrones que forman la corriente eléctrica.<br><br>Es importante porque cuando no hay camino para esa energía, entonces lo usará a Ud. para irse hacia el suelo.<br><br></h3>\n            </div>\n            <div class=\"btn-container mbr-col-sm-12 mbr-col-md-6 mbr-col-lg-4\" mbr-if=\"showButton\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-black-outline\" href=\"https://shop-alectrico-cl.cdn.ampproject.org/c/s/shop.alectrico.cl/productos/10\" data-app-placeholder=\"Type Text\" target=\"_blank\">COMPRAR UN TABLERO CON DIFERENCIAL</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rfA3WZfJHa",
           "_anchor": "info2-2t",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            "& when (@flexDirection)": {
-              ".mbr-row": {
-                "flex-direction": "row-reverse"
-              }
-            },
-            ".text-block": {
-              "margin": "auto"
-            }
-          },
-          "_name": "features11",
-          "_customHTML": "<section class=\"features11\" group=\"Features\" plugins=\"amp-main, amp-youtube\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Media on Left/Right\" name=\"flexDirection\">\n        <input type=\"text\" title=\"Youtube Video URL\" name=\"videoUrl\" value=\"http://www.youtube.com/watch?v=dxHqL3Z4ju8\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#a0a0a0\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n       \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"video-block mbr-col-sm-12 mbr-col-md-6\">\n                <amp-youtube width=\"16\" height=\"9\" layout=\"responsive\" data-videoid=\"lBTCB7yLs8Y\">\n                </amp-youtube>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-6\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-left mbr-white\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">Digitalización</h3>\n                <p class=\"mbr-fonts-style mbr-text align-left mbr-white\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">La Domótica es una forma de usar la electricidad en forma digital. Es algo que puede resultarle extraño a un electricista pero que ya está pasando. Este video intenta explicar el fundamento del mundo digital.&nbsp;<br><br>La Electricidad es usada, a la vez, como fuente de energía y como mecanismo de control, y todo en el mismo sistema domótico. Una parte de la electricidad se usa para proveer de energía a los artefactos de una edificación mientras otra parte se modula digitalmente para transportar información.&nbsp;<br><br>A todo esto se le agrega la posibilidad de que la electricidad viaje sin conductor. En este punto ya no se habla de electricidad sino de onda electromagnética. Esto posibilita posible la comunicación inalámbrica utilizando protocolos como el ZigBee.<br><br>Alexander Espinosa<br>CEO aléctrico</p>\n                <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">READ MORE</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qMiFfavKLB",
-          "_anchor": "features11-23",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "& when (@flexDirection)": {
-              ".mbr-row": {
-                "flex-direction": "row-reverse"
-              }
-            },
-            ".btn-container": {
-              "display": "flex",
-              "align-items": "center",
-              "justify-content": "center"
-            },
-            "@media (min-width: 768px)": {
-              ".mbr-section-subtitle": {
-                "margin-bottom": "0"
-              }
-            }
-          },
-          "_name": "info2",
-          "_customHTML": "<section class=\"info2\" group=\"Testimonials & Info\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!--Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Button\" name=\"showButton\" checked>\n        <input type=\"checkbox\" title=\"Text on Left/Right\" name=\"flexDirection\" condition=\"(showTitle || showSubtitle) && showButton\" checked>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/img/04.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-6 mbr-col-lg-8\" mbr-if=\"showTitle || showSubtitle\">\n                <h2 class=\"mbr-section-title align-right mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">¡Cables en ocho?&nbsp;</h2>\n                <h3 class=\"mbr-section-subtitle align-right mbr-fonts-style mbr-light\" mbr-theme-style=\"display-7\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">\n                    Alexander Espinosa, CEO de Aléctrico contribuyó en un artículo sobre seguridad eléctrica de la autoría de Francisca Orellana.\n                </h3>\n            </div>\n            <div class=\"btn-container mbr-col-sm-12 mbr-col-md-6 mbr-col-lg-4\" mbr-if=\"showButton\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-black-outline\" href=\"http://www.lun.com/Pages/NewsDetail.aspx?dt=2018-03-15&PaginaId=16&bodyid=0\" target=\"_blank\">VEALO EN LAS ULTIMAS NOTICIAS</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qMnnyGqKRi",
-          "_anchor": "info2-24",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
