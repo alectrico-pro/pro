@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Electricista a Domicilio. Instalador Eléctrico Autorizado SEC. Eléctrico a Domicilio. Providencia, Santiago, Ñuñoa",
-    "currentPage": "providencia.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -35,9 +35,9 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-alectrico-475a0c1879d81e1dc3280b278ef3c43104df0a141c348cf59285cd94d23ba5b2-128x128.png",
     "noImageResize": "",
     "cookiesAlert": "",
-    "google-analytics": "<script type=\"application/ld+json\">\r\n{\r\n\t\"@context\": \"http://schema.org\",\r\n\t\"@type\": \"Electrician\",\r\n\t\"name\": \"Aléctrico: Electricista a Domicilio\",\r\n\t\"address\": {\r\n\t\t\"@type\": \"PostalAddress\",\r\n\t\t\"streetAddress\": \"\",\r\n\t\t\"addressLocality\": \"Providencia\",\r\n\t\t\"addressRegion\": \"RM\",\r\n\t\t\"postalCode\": \"7500000\"\r\n\t},\r\n\t\"image\": \"https://alectrico.cl/assets/images/wp-20160517-8-1456x2592.jpg\",\r\n\t\"email\": \"go@alectrico.cl\",\r\n\t\"telePhone\": \"+56962000921\",\r\n\t\"url\": \"http://alectrico.cl\",\r\n        \"sameAs\": \"https://alectrico.cl,           https://alectrico.cl/providencia,\r\nhttps://alectrico.cl/santiago,\r\nhttps://alectrico.cl/ñuñoa\",\r\n        \"potentialAction\": {\r\n    \"@type\": \"OrderAction\",\r\n    \"target\": {\r\n      \"@type\": \"EntryPoint\",\r\n      \"urlTemplate\": \"https://www.alectrico.cl/agendar\",\r\n      \"inLanguage\": \"es-CL\",\r\n      \"actionPlatform\": [\r\n        \"http://schema.org/DesktopWebPlatform\",\r\n        \"http://schema.org/IOSPlatform\",\r\n        \"http://schema.org/AndroidPlatform\"\r\n      ]\r\n    },\r\n    \"deliveryMethod\": [      \"http://purl.org/goodrelations/v1#DeliveryModePickUp\",      \"http://purl.org/goodrelations/v1#DeliveryModeOwnFleet\"\r\n    ]\r\n     },\r\n\t\"paymentAccepted\": [ \"cash\", \"paypal\" ],\r\n\t\"openingHours\": \"Mo,Tu,We,Th,Fr,Sa,Su 07:00-22:00\",\r\n\t\"openingHoursSpecification\": [ {\r\n\t\t\"@type\": \"OpeningHoursSpecification\",\r\n\t\t\"dayOfWeek\": [\r\n\t\t\t\"Monday\",\r\n\t\t\t\"Tuesday\",\r\n\t\t\t\"Wednesday\",\r\n\t\t\t\"Thursday\",\r\n\t\t\t\"Friday\",\r\n\t\t\t\"Saturday\",\r\n\t\t\t\"Sunday\"\r\n\t\t],\r\n\t\t\"opens\": \"07:00\",\r\n\t\t\"closes\": \"22:00\"\r\n\t} ],\r\n\t\"geo\": {\r\n\t\t\"@type\": \"GeoCoordinates\",\r\n\t\t\"latitude\": \"-33.444746\",\r\n\t\t\"longitude\": \"\"\r\n\t},\r\n\t\"priceRange\":\"$ 25.000 - $40.000\",\r\n \"aggregateRating\":\r\n    {\r\n        \"@type\": \"AggregateRating\",\r\n        \"ratingValue\": \"5\",\r\n        \"ratingCount\": \"9\",\r\n        \"reviewCount\": \"5\"\r\n    }\r\n}\r\n</script>\r\n\r\n",
+    "google-analytics": "<script type=\"application/ld+json\">\r\n{\r\n\t\"@context\": \"http://schema.org\",\r\n\t\"@type\": \"Electrician\",\r\n\t\"name\": \"Aléctrico: Electricista a Domicilio\",\r\n\t\"address\": {\r\n\t\t\"@type\": \"PostalAddress\",\r\n\t\t\"streetAddress\": \"\",\r\n\t\t\"addressLocality\": \"Providencia\",\r\n\t\t\"addressRegion\": \"RM\",\r\n\t\t\"postalCode\": \"7500000\"\r\n\t},\r\n\t\"image\": \"https://alectrico.cl/assets/images/wp-20160517-8-1456x2592.jpg\",\r\n\t\"email\": \"go@alectrico.cl\",\r\n\t\"telePhone\": \"+56962000921\",\r\n\t\"url\": \"http://alectrico.cl\",\r\n        \"sameAs\": \"https://alectrico.cl,           https://alectrico.cl/providencia,\r\nhttps://alectrico.cl/santiago,\r\nhttps://alectrico.cl/ñuñoa\",\r\n        \"potentialAction\": {\r\n    \"@type\": \"OrderAction\",\r\n    \"target\": {\r\n      \"@type\": \"EntryPoint\",\r\n      \"urlTemplate\": \"https://www.alectrico.cl/agendar\",\r\n      \"inLanguage\": \"es-CL\",\r\n      \"actionPlatform\": [\r\n        \"http://schema.org/DesktopWebPlatform\",\r\n        \"http://schema.org/IOSPlatform\",\r\n        \"http://schema.org/AndroidPlatform\"\r\n      ]\r\n    },\r\n    \"deliveryMethod\": [      \"http://purl.org/goodrelations/v1#DeliveryModePickUp\",      \"http://purl.org/goodrelations/v1#DeliveryModeOwnFleet\"\r\n    ]\r\n     },\r\n\t\"paymentAccepted\": [ \"cash\", \"paypal\" ],\r\n\t\"openingHours\": \"Mo,Tu,We,Th,Fr,Sa,Su 07:00-22:00\",\r\n\t\"openingHoursSpecification\": [ {\r\n\t\t\"@type\": \"OpeningHoursSpecification\",\r\n\t\t\"dayOfWeek\": [\r\n\t\t\t\"Monday\",\r\n\t\t\t\"Tuesday\",\r\n\t\t\t\"Wednesday\",\r\n\t\t\t\"Thursday\",\r\n\t\t\t\"Friday\",\r\n\t\t\t\"Saturday\",\r\n\t\t\t\"Sunday\"\r\n\t\t],\r\n\t\t\"opens\": \"07:00\",\r\n\t\t\"closes\": \"22:00\"\r\n\t} ],\r\n\t\"geo\": {\r\n\t\t\"@type\": \"GeoCoordinates\",\r\n\t\t\"latitude\": \"-33.444746\",\r\n\t\t\"longitude\": \"\"\r\n\t},\r\n\t\"priceRange\":\"$ 25.000 - $40.000\",\r\n \"aggregateRating\":\r\n    {\r\n        \"@type\": \"AggregateRating\",\r\n        \"ratingValue\": \"5\",\r\n        \"ratingCount\": \"10\",\r\n        \"reviewCount\": \"6\"\r\n    }\r\n}\r\n</script>\r\n\r\n",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 101,
+    "uniqCompNum": 103,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "siteUrl": "http://www.alectrico.pro",
@@ -332,7 +332,7 @@
             }
           },
           "_name": "image1",
-          "_customHTML": "<section class=\"image1\" group=\"Images &amp; Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline=\"\" title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showText\" checked=\"\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"showText==true\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': fullWidth == false}\">\n        <div class=\"image-block\">\n            <amp-img src=\"@THEME_PATH@/components/_images/background4.jpg\" layout=\"responsive\" width=\"860.0375234521575\" height=\"573\" alt=\"Aléctrico\">\n                <img class=\"mbr-temp\" src=\"@THEME_PATH@/components/_images/background4.jpg\" alt=\"Aléctrico\" title=\"\">\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text=\"\" class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>¡Bienvenido al mundo E!</b></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"image1\" group=\"Images &amp; Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline=\"\" title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showText\" checked=\"\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"showText==true\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': fullWidth == false}\">\n        <div class=\"image-block\">\n            <amp-img src=\"@THEME_PATH@/components/_images/background4.jpg\" layout=\"responsive\" width=\"1262.2889305816134\" height=\"841\" alt=\"Aléctrico\">\n                <img class=\"mbr-temp\" src=\"@THEME_PATH@/components/_images/background4.jpg\" alt=\"Aléctrico\" title=\"\">\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text=\"\" class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>¡Bienvenido al mundo E!</b></p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qMi5WZeXTd",
           "_anchor": "image1-20",
           "_protectedParams": [],
@@ -389,7 +389,7 @@
             }
           },
           "_name": "image2",
-          "_customHTML": "<section class=\"image1\" group=\"Images &amp; Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline=\"\" title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showText\" checked=\"\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"showText==true\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': fullWidth == false}\">\n        <div class=\"image-block\">\n            <amp-img src=\"@THEME_PATH@/components/_images/img/07.jpg\" layout=\"responsive\" width=\"454.7842401500938\" height=\"303\" alt=\"Mobirise\">\n                <img class=\"mbr-temp\" src=\"@THEME_PATH@/components/_images/img/07.jpg\" alt=\"Mobirise\">\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text=\"\" class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"image1\" group=\"Images &amp; Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline=\"\" title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showText\" checked=\"\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"showText==true\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': fullWidth == false}\">\n        <div class=\"image-block\">\n            <amp-img src=\"@THEME_PATH@/components/_images/img/07.jpg\" layout=\"responsive\" width=\"732.4577861163226\" height=\"488\" alt=\"Mobirise\">\n                <img class=\"mbr-temp\" src=\"@THEME_PATH@/components/_images/img/07.jpg\" alt=\"Mobirise\">\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text=\"\" class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"></p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qMi6uiYAro",
           "_anchor": "image2-21",
           "_protectedParams": [],
@@ -464,7 +464,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
@@ -817,7 +817,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1170,7 +1170,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -1535,6 +1535,219 @@
           "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#232323\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\">\n                © Copyright 2018-2019 alectrico - Todos los derechos reservados</p>\n        </div>\n    </div>\n</section>",
           "_cid": "qUUivzoiiU",
           "_anchor": "footer1-2i",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "footer",
+          "_params": {}
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "title": "Page 5",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            "amp-sidebar": {
+              "min-width": "260px!important",
+              "z-index": "1050!important",
+              "background-color": "@menuBgColor"
+            },
+            "amp-sidebar.open:after": {
+              "content": "''",
+              "position": "absolute",
+              "top": "0",
+              "left": "0",
+              "bottom": "0",
+              "right": "0",
+              "background-color": "red"
+            },
+            ".open": {
+              "transform": "translateX(0%) !important",
+              "display": "block!important"
+            },
+            ".builder-sidebar": {
+              "background-color": "@menuBgColor",
+              "position": "relative",
+              "height": "100vh",
+              "z-index": "1030",
+              "padding": "1rem 2rem",
+              "max-width": "20rem"
+            },
+            ".headerbar": {
+              "display": "flex",
+              "flex-direction": "column",
+              "justify-content": "center",
+              "padding": ".5rem 1rem",
+              "min-height": "70px",
+              "align-items": "center",
+              "background": "@menuBgColor",
+              "&.sticky-nav": {
+                "position": "fixed",
+                "z-index": "1000",
+                "width": "100%"
+              }
+            },
+            "button.sticky-but": {
+              "position": "fixed"
+            },
+            ".brand": {
+              "display": "flex",
+              "align-items": "center",
+              "align-self": "flex-start",
+              "padding-right": "30px",
+              "p": {
+                "margin": "0",
+                "padding": "0"
+              }
+            },
+            ".brand-name": {
+              "color": "#197bc6"
+            },
+            ".sidebar": {
+              "padding": "1rem 0",
+              "margin": "0"
+            },
+            ".sidebar > li": {
+              "list-style": "none",
+              "display": "flex",
+              "flex-direction": "column"
+            },
+            ".sidebar a": {
+              "display": "block",
+              "text-decoration": "none",
+              "margin-bottom": "10px"
+            },
+            ".close-sidebar": {
+              "width": "30px",
+              "height": "30px",
+              "position": "relative",
+              "cursor": "pointer",
+              "background-color": "transparent",
+              "border": "none",
+              "&:focus": {
+                "outline": "2px auto @primaryColor"
+              },
+              "span": {
+                "position": "absolute",
+                "left": "0",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "transform": "rotate(45deg)"
+                },
+                "&:nth-child(2)": {
+                  "transform": "rotate(-45deg)"
+                }
+              }
+            },
+            "@media (min-width: 992px)": {
+              "& .brand-name": {
+                "min-width": "8rem"
+              },
+              "& .builder-sidebar": {
+                "margin-left": "auto",
+                ".sidebar li": {
+                  "flex-direction": "row",
+                  "flex-wrap": "wrap",
+                  "a": {
+                    "padding": ".5rem",
+                    "margin": "0"
+                  }
+                }
+              },
+              "& .builder-overlay": {
+                "display": "none !important"
+              }
+            },
+            ".hamburger": {
+              "position": "absolute",
+              "top": "25px",
+              "& when (@showLogo)": {
+                "@media (min-width: 768px)": {
+                  "top": "calc(0.5rem ~\"+\" @logoHeight ~\"*\" 0.5px ~\"-\" 10px)"
+                }
+              },
+              "right": "20px",
+              "margin-left": "auto",
+              "width": "30px",
+              "height": "20px",
+              "background": "none",
+              "border": "none",
+              "cursor": "pointer",
+              "z-index": "1000",
+              "&:focus": {
+                "outline": "none"
+              },
+              "span": {
+                "position": "absolute",
+                "right": "0",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "top": "0",
+                  "transition": "all .2s"
+                },
+                "&:nth-child(2)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(3)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(4)": {
+                  "top": "16px",
+                  "transition": "all .2s"
+                }
+              }
+            },
+            "amp-img": {
+              "height": "~\"@{logoHeight}px\"",
+              "width": "~\"@{logoWidth}px\"",
+              "margin-right": "1rem",
+              "display": "flex",
+              "align-items": "center",
+              "@media (max-width: 768px)": {
+                "max-height": "55px",
+                "max-width": "55px"
+              }
+            }
+          },
+          "_name": "menu1",
+          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"amp-main,amp-sidebar\" global=\"\" once=\"menu\" always-top=\"\" position-absolute=\"\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked=\"\">\n        <input type=\"range\" title=\"Logo Height\" inline=\"\" name=\"logoHeight\" min=\"55\" max=\"120\" value=\"55\" step=\"1\">\n        <input type=\"range\" title=\"Logo Width\" inline=\"\" name=\"logoWidth\" min=\"55\" max=\"120\" value=\"55\" step=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\">\n        <input type=\"checkbox\" title=\"Show Links\" name=\"showLinks\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\" checked=\"\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked=\"\">\n        <select title=\"Sidebar Side\" name=\"sidebarSide\">\n            <option value=\"left\">Left</option>\n            <option value=\"right\" selected=\"\">Right</option>\n        </select>\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#0e0e87\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <nav class=\"headerbar\" mbr-class=\"{'sticky-nav':sticky}\">\n      <div class=\"brand\">\n          <span mbr-if=\"showLogo\" class=\"brand-logo\">\n              <amp-img src=\"@PROJECT_PATH@/assets/images/logo-alectrico-475a0c1879d81e1dc3280b278ef3c43104df0a141c348cf59285cd94d23ba5b2-317x317.png\" layout=\"responsive\" width=\"55\" height=\"55\" alt=\"alectrico pro\">\n                  <a href=\"#top\"><img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/logo-alectrico-475a0c1879d81e1dc3280b278ef3c43104df0a141c348cf59285cd94d23ba5b2-317x317.png\" alt=\"alectrico pro\" title=\"alectrico pro\"></a>\n              </amp-img>\n          </span>\n          <p mbr-text=\"\" mbr-theme-style=\"display-2\" mbr-if=\"showBrand\" class=\"brand-name mbr-fonts-style\" data-app-selector=\".brand-name\">alectrico.pro</p>\n      </div>\n    </nav>\n    <amp-sidebar id=\"sidebar\" layout=\"nodisplay\" side=\"{{sidebarSide}}\">\n        <div class=\"builder-sidebar\" id=\"builder-sidebar\">\n            <button on=\"tap:sidebar.close\" class=\"close-sidebar\">\n                <span></span>\n                <span></span>\n            </button>\n\n            <div mbr-menu=\"\" class=\"sidebar mbr-white\" mbr-theme-style=\"display-4\" mbr-if=\"showLinks\"><a class=\"text-primary\" href=\"http://alectrico.cl\">PRINCIPAL</a>\n              <a class=\"text-primary\" href=\"http://alectrico.cl/clientes\">CLIENTES</a></div>\n            \n            <div mbr-if=\"showButtons\" mbr-buttons=\"\" mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn align-center\"><a class=\"btn btn-sm btn-primary\" href=\"tel:+56962000921\"><span class=\"fa fa-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>962 000 921</a></div>\n        </div>\n    </amp-sidebar>\n    <button on=\"tap:sidebar.toggle\" class=\"ampstart-btn hamburger\" mbr-class=\"{'sticky-but':sticky}\">\n        <span></span>\n        <span></span>\n        <span></span>\n        <span></span>\n    </button>\n</section>",
+          "_cid": "qMd8BWnM33",
+          "_anchor": "menu1-2t",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "menu",
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "p": {
+              "margin": "0",
+              "color": "#ffffff"
+            }
+          },
+          "_name": "footer1",
+          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#232323\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\">\n                © Copyright 2018-2019 alectrico - Todos los derechos reservados</p>\n        </div>\n    </div>\n</section>",
+          "_cid": "qMd8BZqeg8",
+          "_anchor": "footer1-2u",
           "_protectedParams": [],
           "_global": true,
           "_once": "footer",
